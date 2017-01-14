@@ -1,0 +1,89 @@
+body{
+  margin-left: 10em;
+  margin-right: 10em;
+}
+#img-logo {
+  float: left;
+  font-family: Veranda;
+  margin:2%;
+  margin-left: 0;
+}
+#title-delic {
+
+}
+.social-pics{
+  text-align: right;
+  padding-right: 10%;
+}
+#pint{
+  margin-right: 2%;
+}
+h3{
+  font-family: cursive;
+}
+.pictures{
+  text-align: right;
+  display:block;
+  padding-right: 3%;
+}
+.body-text{
+  text-align: center;
+}
+#pizza{
+  text-align: center;
+}
+#her{
+  text-align: center;
+}
+#top{
+  margin-top: 1%;
+  text-align: left;
+  #padding-top: 10%;
+  margin-bottom: 0;
+}
+html{
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+#delic{
+  text-align: left;
+  margin-bottom: 0;
+}
+#list-one{
+  float: left;
+  background:
+}
+#list-two{
+  float: right;
+  background-image: image("img/list-bg.png");
+
+}
+#her{
+text-align: left;
+margin-left: 10%;
+}
+#van{
+  padding-top: 20%;
+  margin-left: 10%;
+  text-align: left;
+}
+h6{
+  text-align: left;
+  margin-left: 10%;
+}
+#hi{
+float: left;
+margin-top:25%;
+
+}
+#ghost{
+  float: left;
+  margin-left: 30%;
+  margin-top: 0;
+}
+#fork-symbole{
+  margin-top: 0;
+}
+#list-img{
+}
